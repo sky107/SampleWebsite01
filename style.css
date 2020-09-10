@@ -43,7 +43,8 @@ nav ul li a {
   list-style: none; }
 
 nav a:hover {
-  background-color: white;
+  background-color: blue;
+	color:white;
   transition: all .3s; }
 
 .checkbtn {
